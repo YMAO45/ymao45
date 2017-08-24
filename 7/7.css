@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/* CSS Document */
+
+BODY {padding-top: 100px
+	;padding-bottom: 100px;
+padding-left: 100px;
+	padding-right: 10000px;
+background-color: #FFCC00}
+
+#border {
+	border-left:#000000 dotted 10px;
+	border-right:#000000 dotted 10px;
+	border-top:#000000 dotted 2px;
+	border-bottom:#000000 dotted 2px;
+float:left;
+position: fixed;
+	text-align: center;
+	
+
+}
+
+h2{
+/*	float:right;*/
+	width: 100px;
+	display: block;
+padding:10px; 
+	background-color: #FF0004;
+	margin-left: 2000px;
+/*
+	position: absolute;
+	right: 0px;
+*/
+}
+
+

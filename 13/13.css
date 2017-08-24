@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.a {border-radius: 30px;
+	border: #000000 solid 2px;
+	padding: 20px;
+	position: absolute;
+	left: 305px;
+	top: 192px;
+	width: 164px;
+	height: 58px;
+	animation-duration: 15s;
+	animation-name: whisper;
+	animation-direction: alternate;
+	animation-iteration-count: infinite;
+	animation-timing-function: ease-in-out;
+}
+P{color:#FFFFFF;
+text-shadow: 2px 2px 2px black}
+
+@keyframes whisper {
+    0%   {background-color:wheat; left:0px; top:0px;}
+    25%  {background-color:white; left:900px; top:0px;}
+    50%  {background-color:lightgray; left:900px; top:900px;}
+    75%  {background-color:lavenderblush; left:0px; top:900px;}
+    100% {background-color:skyblue; left:0px; top:0px;}
+	

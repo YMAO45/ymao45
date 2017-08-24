@@ -1,0 +1,89 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.a {
+	line-height: 100px;
+	font-style: oblique;
+	font-family: "monospace";
+	font-weight: 500;
+	font-size: 50px;
+	letter-spacing: 10px;
+	color: #ffffff;
+	position: absolute;
+	left: 35px;
+	top: 127px;
+	width: 201px;
+	height: 195px;
+	padding: 10px;
+	background-color: #FF0004
+}
+
+.b {
+	font-style: italic;
+	font-family: "Arial";
+	font-weight: bolder;
+	font-size: 60px;
+	position: absolute;
+	left: 315px;
+	top: 21px;
+	padding: 10;
+	background-color: #FFCE00;
+	width: 174px;
+	height: 169px;
+}
+
+.c {
+	font-family: "Arial Black";
+	text-transform: uppercase;
+	font-size: 40px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color: #FF8200;
+	position: absolute;
+	left: 373px;
+	top: 161px;
+	width: 419px;
+	height: 111px;
+	color: #020078
+}
+
+.d {
+	font-family: "Times New Roman";
+	font-size: 60px;
+	font-style: oblique;
+	font-weight: 700;
+	padding: 10px;
+	background-color: #000000;
+	color: #FFCE00;
+	position: absolute;
+	left: 871px;
+	top: 45px;
+	height: 125px;
+}
+
+.e {
+	font-family: "Franklin Gothic Bold";
+	font-size: 50px;
+	font-weight: 500;
+	padding: 10px;
+	background-color: #3A4200;
+	position: absolute;
+	left: 805px;
+	top: 270px;
+}
+
+.f {
+	font-family: "helvetica";
+	font-size: 45px;
+	font-weight: 500;
+	font-style: italic;
+	padding: 10px;
+	background-color: #001387;
+	position: absolute;
+	left: 990px;
+	top: 183px;
+	color: #FF8201;
+	height: 101px;
+}

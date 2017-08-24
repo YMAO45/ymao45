@@ -1,0 +1,72 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {background: #FFFFFF;
+transition: color 5s}
+
+body:hover {background-color:#F2C308;}
+
+
+
+.a{
+	font-family: monospace;
+	position: absolute;
+	color: #FFFFFF;
+	left: 157px;
+	top: 135px;
+	width: 412px;
+	height: 75px;
+}
+
+.b{
+	font-family: "helvetica Neue";
+	position: absolute;
+	color: #ffffff;
+	left: 553px;
+	top: 245px;
+	width: 412px;
+	height: 75px;
+}
+
+h1 {
+	font-size: 12px;
+	color: #f2c308;
+	font-family: "cambria";
+	position: absolute;
+	left: 298px;
+	top: 144px;
+	width: 138px;
+}
+#a{
+	font-size: 12px;
+	color: #f2c308;
+	font-family: 'helvetica';
+	position: absolute;
+	left: 600px;
+	top: 272px;
+	width: 349px;
+}
+
+.c{
+	font-family: "serif";
+	position: absolute;
+	font-size: 30px;
+	color: #ffffff;
+	left: 488px;
+	top: 339px;
+	width: 626px;
+	height: 176px;
+	transform: rotate(90deg);
+}
+
+.d{
+	font-family: "baskerville";
+	position: absolute;
+	font-size: 30px;
+	color: #ffffff;
+	left: 4px;
+	top: 339px;
+	width: 626px;
+	height: 176px;
+	transform: rotate(45deg);
+}

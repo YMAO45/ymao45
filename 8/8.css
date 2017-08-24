@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/* CSS Document */
+body {padding-top: 100px;
+padding-bottom: 1000px;
+padding-right: 100px;
+padding-left: 100px;
+background:#000000}
+
+H1 {margin-left: 800px;
+	margin-right: 200px;
+border:#000000 dashed;
+padding: 100px;
+background-color: #FF0004;
+float: right;
+position:fixed}
+
+h2{float: right;
+padding: 10px;
+background-color: #FFFFFF}

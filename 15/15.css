@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/* CSS Document */
+
+div {
+	font-family: "monospace";
+	font-size: 400px;
+	position: absolute;
+	left: 100px;
+	top: 302px;
+	animation-name: whisper;
+	animation-duration: 4s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+}
+
+@keyframes whisper {
+	from {color:#000000}
+	to {color:#ffffff}
+}

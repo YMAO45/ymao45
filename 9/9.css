@@ -1,0 +1,73 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {padding-top: 10px;
+padding-bottom: 1200px;
+padding-right: 10px;
+padding-left: 10px;
+background-color:#000000;
+margin:0px}
+
+h1 {padding-top: 10px;
+padding-bottom:10px;
+padding-right:10px;
+padding-left:10px;
+background-color: #363636;
+margin: 0px;
+position:fixed;}
+
+.a {padding: 10px;
+background-color:#4B4B4B}
+
+
+#hello {
+	position: absolute;
+	width: 181px;
+	height: 1592px;
+	left: 60px;
+	top: -5px;
+	z-index: -10;
+}
+
+.b{
+	padding: 10px;
+	background-color: #1D1D1D;
+	position: absolute;
+	left: 318px;
+	top: 321px;
+	height: 1423px;
+	width: 126px;
+	z-index: -10
+}
+
+.c{
+	padding: 10px;
+	background-color: #171717;
+	position: absolute;
+	left: 497px;
+	top: 196px;
+	height: 192px;
+	width: 202px;
+	z-index: -20
+}
+
+.d{
+	padding: 10px;
+	background-color:#8F8F8F;
+	position: absolute;
+	left: 750px;
+	top: 327px;
+	height: 289px;
+	width: 62px;
+	z-index: -40
+}
+.e{
+	padding: 10px;
+	background-color:#6B6868;
+	position: absolute;
+	left: 870px;
+	top: 338px;
+	height: 58px;
+	width: 290px;
+	z-index: -40
+}

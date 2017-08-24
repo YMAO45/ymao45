@@ -1,0 +1,21 @@
+/* CSS Document */
+body 
+h1 {
+	padding-right: 5px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	background-color:red;
+margin-top: 100px;
+margin-left: 480px;
+margin-bottom: 100px;
+margin-right: 500px;
+	font-size: 16px;
+	font-family: "Helvetica";
+	position:"fixed"
+
+
+}
+p, center {font-family:"Gill Sans";
+color:#BCBCBC
+}
